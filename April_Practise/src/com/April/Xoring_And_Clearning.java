@@ -1,4 +1,5 @@
 package com.April;
+import java.util.*;
 /*
 You are given an array arr[] of size n. You need to do the following:
 
